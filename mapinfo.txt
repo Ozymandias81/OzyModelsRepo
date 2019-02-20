@@ -1,0 +1,4 @@
+DoomEdNums
+{
+	20000=Malacath
+}

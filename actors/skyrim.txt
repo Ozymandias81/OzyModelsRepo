@@ -1,0 +1,5 @@
+ACTOR Malacath : 3dBase
+{
+	//$Category Models (Skyrim)
+	//$Title Malacath Statue
+}

@@ -1,0 +1,24 @@
+ACTOR 3dBase
+{
+	//$Color 3
+	DistanceCheck "3dlod"
+	Radius 32
+	Height 32
+	Mass 0x7fffffff
+	Health -1
+	+SOLID
+	+NOBLOOD
+	+DROPPED
+	+NODAMAGE
+	+SHOOTABLE
+	+DONTSPLASH
+	+NOBLOODDECALS
+	+ACTLIKEBRIDGE
+	+NOTAUTOAIMED
+	States
+	{
+	Spawn:
+		MDLA A -1
+		Stop
+	}
+}

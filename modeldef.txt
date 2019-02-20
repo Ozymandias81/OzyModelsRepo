@@ -1,0 +1,12 @@
+//Defs for Skyrim models by Ozymandias81
+//Original .nif models ripped and converted with NifRipper and Misfit Model3d
+
+Model Malacath
+{
+	Path "models"
+	Model 0 "malacath.md3"
+	Scale 1.0 1.0 1.0
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
