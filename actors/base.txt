@@ -1,7 +1,7 @@
 ACTOR 3dBase
 {
 	//$Color 3
-	DistanceCheck "3dlod"
+	DistanceCheck "lod"
 	Radius 32
 	Height 32
 	Mass 0x7fffffff
@@ -26,8 +26,14 @@ ACTOR 3dBase
 ACTOR 3dBaseFloat
 {
 	//$Color 3
-	DistanceCheck "3dlod"
+	DistanceCheck "lod"
 	+DONTSPLASH
 	+NOBLOCKMAP
 	+NOGRAVITY
+	States
+	{
+	Spawn:
+		MDLA A -1
+		Stop
+	}
 }

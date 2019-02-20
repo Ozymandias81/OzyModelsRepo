@@ -1,4 +1,8 @@
 DoomEdNums
 {
 	20000=Malacath
+	20001=SHBloodBowl
+	20002=SHFaceDoor
+	20003=SovnBrazier
+	20004=SwampFungalPod
 }

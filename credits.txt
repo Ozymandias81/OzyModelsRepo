@@ -1,3 +1,4 @@
 - BETHESDA SOFTWORKS & IRON GALAXY STUDIOS for Elder Scrolls V: Skyrim
 
-MODELS: malacath.md3,
+OBJ MODELS: -
+MD3 MODELS: malacath, shbbowl, shfacedoor, sovnbraz, swfungpod

@@ -1,10 +1,50 @@
 //Defs for Skyrim models by Ozymandias81
-//Original .nif models ripped and converted with NifRipper and Misfit Model3d
+//Original .nif models ripped and converted with NifSkope and Misfit Model3d
 
 Model Malacath
 {
-	Path "models"
+	Path "models/skyrim"
 	Model 0 "malacath.md3"
+	Scale 1.0 1.0 1.0
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model SHBloodBowl
+{
+	Path "models/skyrim"
+	Model 0 "shbbowl.md3"
+	Scale 1.0 1.0 1.0
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model SHFaceDoor
+{
+	Path "models/skyrim"
+	Model 0 "shfacedoor.md3"
+	Scale 1.0 1.0 1.0
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model SovnBrazier
+{
+	Path "models/skyrim"
+	Model 0 "sovnbraz.md3"
+	Scale 1.0 1.0 1.0
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model SwampFungalPod
+{
+	Path "models/skyrim"
+	Model 0 "swfungpod.md3"
 	Scale 1.0 1.0 1.0
 	USEACTORPITCH
 	USEACTORROLL

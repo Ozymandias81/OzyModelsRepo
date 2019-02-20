@@ -3,3 +3,27 @@ ACTOR Malacath : 3dBase
 	//$Category Models (Skyrim)
 	//$Title Malacath Statue
 }
+
+ACTOR SHBloodBowl : 3dBase
+{
+	//$Category Models (Skyrim)
+	//$Title SkyHaven Blood Bowl
+}
+
+ACTOR SHFaceDoor : 3dBaseFloat
+{
+	//$Category Models (Skyrim)
+	//$Title SkyHaven Reman Door
+}
+
+ACTOR SovnBrazier : 3dBase
+{
+	//$Category Models (Skyrim)
+	//$Title Sovngarde Brazier (bronze)
+}
+
+ACTOR SwampFungalPod : 3dBaseFloat
+{
+	//$Category Models (Skyrim)
+	//$Title Swamp Fungal Pod
+}
