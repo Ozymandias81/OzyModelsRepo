@@ -14,9 +14,9 @@ BSAOpt, Blender, Bulk Rename Utility Dragon UnPacker, GIMP, GZDoomBuilder, HxD H
 MilkShape, Misfit3d, NifSkope, Notepad++, Slade3, XModel Exporter
 
 Known Bugs:
-- WILL BE UPDATED FROM TIME TO TIME -
+- WILL BE UPDATED FROM TIME TO TIME
 
 Copy Information:
-You may this repository for your own projects as long as you credit the creators.
+You may use this repository for your own projects as long as you credit the creators.
 You may upload content somewhere else as long as this file stays included as it is.
 You are strongly invited to base your own projects with the content of this repository.
