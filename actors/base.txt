@@ -6,19 +6,28 @@ ACTOR 3dBase
 	Height 32
 	Mass 0x7fffffff
 	Health -1
-	+SOLID
-	+NOBLOOD
-	+DROPPED
-	+NODAMAGE
-	+SHOOTABLE
-	+DONTSPLASH
-	+NOBLOODDECALS
 	+ACTLIKEBRIDGE
+	+DONTSPLASH
+	+DROPPED
+	+NOBLOOD
+	+NOBLOODDECALS
+	+NODAMAGE
 	+NOTAUTOAIMED
+	+SHOOTABLE
+	+SOLID
 	States
 	{
 	Spawn:
 		MDLA A -1
 		Stop
 	}
+}
+
+ACTOR 3dBaseFloat
+{
+	//$Color 3
+	DistanceCheck "3dlod"
+	+DONTSPLASH
+	+NOBLOCKMAP
+	+NOGRAVITY
 }

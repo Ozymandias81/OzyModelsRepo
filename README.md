@@ -10,8 +10,19 @@ This pack has an example map where some of the models can be seen in game an tes
 GZDoom Builder or building the .pk3 itself via the BUILD.bat within the repository.
 
 Editors used:
-BSAOpt, Blender, Bulk Rename Utility Dragon UnPacker, GIMP, GZDoomBuilder, HxD Hex Editor,
-MilkShape, Misfit3d, NifSkope, Notepad++, Slade3, XModel Exporter
+- BSAOpt : https://www.nexusmods.com/skyrim/mods/247/
+- Blender : https://www.blender.org
+- Bulk Rename Utility : https://www.bulkrenameutility.co.uk/Download.php
+- Dragon UnPacker : https://www.elberethzone.net/dragon-unpacker.html
+- GIMP : https://www.gimp.org
+- GZDoomBuilder : https://devbuilds.drdteam.org/gzdoom/
+- HxD Hex Editor : https://mh-nexus.de/en/hxd/
+- MilkShape : http://www.milkshape3d.com
+- Misfit3d : http://www.misfitcode.com/misfitmodel3d/
+- NifSkope : https://github.com/niftools/nifskope/releases
+- Notepad++ : https://notepad-plus-plus.org
+- Slade3 : https://github.com/sirjuddington/SLADE/releases
+- XModel Exporter : http://www.diegologic.net/CoD_tools/XmodelExporter.htm
 
 Known Bugs:
 - WILL BE UPDATED FROM TIME TO TIME
