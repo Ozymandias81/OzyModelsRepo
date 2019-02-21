@@ -1,4 +1,35 @@
-- BETHESDA SOFTWORKS & IRON GALAXY STUDIOS for Elder Scrolls V: Skyrim
+----------------------------------------------------------------------------------------------------
+DECORATE
+----------------------------------------------------------------------------------------------------
+Enjay, Ozymandias81
 
-OBJ MODELS: -
-MD3 MODELS: malacath, shbbowl, shfacedoor, sovnbraz, swfungpod
+----------------------------------------------------------------------------------------------------
+MODELS
+----------------------------------------------------------------------------------------------------
+DoomJuan, Enjay, Ozymandias81
+
+Ripped by Ozymandias81:
+2015 GAMES INC. for Medal Of Honor: Allied Assault
+	OBJ MODELS: -
+	MD3 MODELS: -
+
+ACTIVISION for Return To Castle Wolfenstein, Call Of Duty 1-2-UO
+	OBJ MODELS: -
+	MD3 MODELS: -
+	
+BETHESDA SOFTWORKS & IRON GALAXY STUDIOS for Elder Scrolls V: Skyrim
+	OBJ MODELS: -
+	MD3 MODELS: malacath, shbbowl, shfacedoor, sovnbraz, swfungpod
+
+MONOLITH PRODUCTIONS for No One Lives Forever 1
+	OBJ MODELS: -
+	MD3 MODELS: -
+
+RAVEN SOFTWARE for Hexen 2, Heretic 2, Jedi Knight 3
+	OBJ MODELS: -
+	MD3 MODELS: -
+
+----------------------------------------------------------------------------------------------------
+SPRITES
+----------------------------------------------------------------------------------------------------
+Ozymandias81

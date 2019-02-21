@@ -1,15 +1,14 @@
-Welcome to my Personal Repository of 3d Models ripped from several games & in the WWW
-for NON-COMMERCIAL purposes.
-These models are mainly intended to be used with Doom sourceport engines such as
-GZDoom and Zandronum, but even Doomsday if you know how to convert them.
-Here you will find an astonishing collection of .md3 / .obj models with usually
-embedded skins and without animations, extracted from several games that you can retrieve
-from CREDITS.txt.
-I DON'T PLAN TO DO ANY MONEY WITH THESE RESOURCES SO CONSIDER IT FREEWARE.
-This pack has an example map where some of the models can be seen in game an tested using
-GZDoom Builder or building the .pk3 itself via the BUILD.bat within the repository.
+Welcome to my personal repository of 3d Models ripped from several games & in the WWW.
+These models are mainly intended to be used under GZDoom sourceport, but you can adapt
+it for Zandronum and Doomsday if you know how to do it, so it's up to you.
+Models comes mainly with embedded skins and nested folders, usually with no animations.
+Check CREDITS.txt for a complete and exhaustive list.
+An example map is included within this pack, which can be built via the BUILD.bat to run
+it from GZDoom.
+I DON'T PLAN TO DO ANY MONEY WITH THESE RESOURCES SO CONSIDER THIS FREEWARE.
 
 Editors used:
+- 7Zip : https://www.7-zip.org
 - BSAOpt : https://www.nexusmods.com/skyrim/mods/247/
 - Blender : https://www.blender.org
 - Bulk Rename Utility : https://www.bulkrenameutility.co.uk/Download.php
