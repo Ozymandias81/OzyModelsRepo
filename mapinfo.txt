@@ -5,4 +5,5 @@ DoomEdNums
 	20002=SHFaceDoor
 	20003=SovnBrazier
 	20004=SwampFungalPod
+	20005=BREMushroom
 }

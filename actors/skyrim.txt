@@ -27,3 +27,9 @@ ACTOR SwampFungalPod : 3dBaseFloat
 	//$Category Models (Skyrim)
 	//$Title Swamp Fungal Pod
 }
+
+ACTOR BREMushroom : 3dBase
+{
+	//$Category Models (Skyrim)
+	//$Title Blackreach Giant Mushroom
+}

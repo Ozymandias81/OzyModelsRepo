@@ -50,3 +50,13 @@ Model SwampFungalPod
 	USEACTORROLL
 	FrameIndex MDLA A 0 0
 }
+
+Model BREMushroom
+{
+	Path "models/skyrim"
+	Model 0 "brmushroom01.obj"
+	Scale 0.3 0.3 0.3
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
