@@ -1,6 +1,7 @@
 //Defs for Skyrim models by Ozymandias81
 //Original .nif models ripped and converted with NifSkope and Misfit Model3d
 
+//MD3 DEFS//
 Model Malacath
 {
 	Path "models/skyrim"
@@ -51,6 +52,107 @@ Model SwampFungalPod
 	FrameIndex MDLA A 0 0
 }
 
+Model AtronachFrost
+{
+	Path "models/skyrim"
+	Model 0 "atronachfrost.md3"
+	Scale 1.0 1.0 1.0
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model AtronachStorm
+{
+	Path "models/skyrim"
+	Model 0 "atronachstorm.md3"
+	Scale 1.0 1.0 1.0
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model BeeHive1
+{
+	Path "models/skyrim"
+	Model 0 "beehive.md3"
+	Scale 1.0 1.0 1.0
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model BeeHive2
+{
+	Path "models/skyrim"
+	Model 0 "beehiveburn.md3"
+	Scale 1.0 1.0 1.0
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model Blackpool
+{
+	Path "models/skyrim"
+	Model 0 "blackpool.md3"
+	Scale 1.0 1.0 1.0
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model BRCrystalRock1
+{
+	Path "models/skyrim"
+	Model 0 "brcrystal.md3"
+	Scale 1.0 1.0 1.0
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model Chaurus
+{
+	Path "models/skyrim"
+	Model 0 "chaurus.md3"
+	Scale 1.0 1.0 1.0
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model DragonPriest
+{
+	Path "models/skyrim"
+	Model 0 "dragonpriest.md3"
+	Scale 1.0 1.0 1.0
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model YsgramorStatue
+{
+	Path "models/skyrim"
+	Model 0 "ysgramor.md3"
+	Scale 1.0 1.0 1.0
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model YsgramorAxe
+{
+	Path "models/skyrim"
+	Model 0 "ysgraxe.md3"
+	Scale 1.0 1.0 1.0
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+//OBJ DEFS//
 Model BREMushroom
 {
 	Path "models/skyrim"

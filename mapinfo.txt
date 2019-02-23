@@ -6,4 +6,14 @@ DoomEdNums
 	20003=SovnBrazier
 	20004=SwampFungalPod
 	20005=BREMushroom
+	20006=AtronachFrost
+	20007=AtronachStorm
+	20008=BeeHive1
+	20009=BeeHive2
+	20010=Blackpool
+	20011=BRCrystalRock1
+	20012=Chaurus
+	20013=DragonPriest
+	20014=YsgramorStatue
+	20015=YsgramorAxe
 }

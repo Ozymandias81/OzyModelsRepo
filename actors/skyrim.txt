@@ -1,3 +1,11 @@
+//OBJ MODELS//
+ACTOR BREMushroom : 3dBase
+{
+	//$Category Models (Skyrim)
+	//$Title Blackreach Giant Mushroom
+}
+
+//MD3 MODELS//
 ACTOR Malacath : 3dBase
 {
 	//$Category Models (Skyrim)
@@ -28,8 +36,60 @@ ACTOR SwampFungalPod : 3dBaseFloat
 	//$Title Swamp Fungal Pod
 }
 
-ACTOR BREMushroom : 3dBase
+ACTOR AtronachFrost : 3dBase
 {
 	//$Category Models (Skyrim)
-	//$Title Blackreach Giant Mushroom
+	//$Title Atronach, Frost
+}
+
+ACTOR AtronachStorm : AtronachFrost
+{
+	//$Title Atronach, Storm
+}
+
+ACTOR BeeHive1 : 3dBase
+{
+	//$Category Models (Skyrim)
+	//$Title Bee Hive
+}
+
+ACTOR BeeHive2 : BeeHive1
+{
+	//$Title Bee Hive, burnt
+}
+
+ACTOR Blackpool : 3dBaseFloat
+{
+	//$Category Models (Skyrim)
+	//$Title Nocturnal's Blackpool
+}
+
+ACTOR BRCrystalRock1 : 3dBaseFloat
+{
+	//$Category Models (Skyrim)
+	//$Title Blackreach's Crystal Rock A
+}
+
+ACTOR Chaurus : 3dBase
+{
+	//$Category Models (Skyrim)
+	//$Title Chaurus
+}
+
+ACTOR DragonPriest : 3dBase
+{
+	//$Category Models (Skyrim)
+	//$Title Dragonborn Priest (Lich)
+}
+
+ACTOR YsgramorStatue : 3dBase
+{
+	//$Category Models (Skyrim)
+	//$Title Statue of Ysgramor
+}
+
+ACTOR YsgramorAxe : 3dBaseFloat
+{
+	//$Category Models (Skyrim)
+	//$Title Ysgramor's Axe
 }

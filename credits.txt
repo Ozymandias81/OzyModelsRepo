@@ -19,7 +19,8 @@ ACTIVISION for Return To Castle Wolfenstein, Call Of Duty 1-2-UO
 	
 BETHESDA SOFTWORKS & IRON GALAXY STUDIOS for Elder Scrolls V: Skyrim
 	OBJ MODELS: brmushroom01, 
-	MD3 MODELS: malacath, shbbowl, shfacedoor, sovnbraz, swfungpod
+	MD3 MODELS: malacath, shbbowl, shfacedoor, sovnbraz, swfungpod, atronachfrost, atronachstorm
+	beehive, beehiveburn, blackpool, brcrystal, chaurus, dragonpriest, ysgramor, ysgraxe
 
 MONOLITH PRODUCTIONS for No One Lives Forever 1
 	OBJ MODELS: -
