@@ -5,6 +5,36 @@ ACTOR BREMushroom : 3dBase
 	//$Title Blackreach Giant Mushroom
 }
 
+ACTOR Alduin : 3dBaseFloat
+{
+	//$Category Models (Skyrim)
+	//$Title Alduin
+}
+
+ACTOR AlduinWall : 3dBaseFloat
+{
+	//$Category Models (Skyrim)
+	//$Title Alduin Loading Wall
+}
+
+ACTOR Azura : 3dBase
+{
+	//$Category Models (Skyrim)
+	//$Title Shrine Of Azura
+}
+
+ACTOR Boethiah : 3dBase
+{
+	//$Category Models (Skyrim)
+	//$Title Shrine Of Boethiah
+}
+
+ACTOR Nocturnal : 3dBase
+{
+	//$Category Models (Skyrim)
+	//$Title Shrine Of Nocturnal
+}
+
 //MD3 MODELS//
 ACTOR Malacath : 3dBase
 {
@@ -92,4 +122,21 @@ ACTOR YsgramorAxe : 3dBaseFloat
 {
 	//$Category Models (Skyrim)
 	//$Title Ysgramor's Axe
+}
+
+ACTOR ClavicusVile : 3dBase
+{
+	//$Category Models (Skyrim)
+	//$Title Shrine Of Clavicus Vile
+}
+
+ACTOR ClavicusVileNoDog : ClavicusVile
+{
+	//$Title Shrine Of Clavicus Vile (no dog)
+}
+
+ACTOR NocturnalBasin : 3dBase
+{
+	//$Category Models (Skyrim)
+	//$Title Nocturnal Decorative Basin
 }

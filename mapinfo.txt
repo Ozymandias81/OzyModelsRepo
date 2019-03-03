@@ -16,4 +16,12 @@ DoomEdNums
 	20013=DragonPriest
 	20014=YsgramorStatue
 	20015=YsgramorAxe
+	20016=Alduin
+	20017=AlduinWall
+	20018=Azura
+	20019=Boethiah
+	20020=ClavicusVile
+	20021=ClavicusVileNoDog
+	20022=NocturnalBasin
+	20023=Nocturnal
 }

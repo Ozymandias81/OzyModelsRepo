@@ -1,7 +1,7 @@
 ----------------------------------------------------------------------------------------------------
 DECORATE
 ----------------------------------------------------------------------------------------------------
-Enjay, Ozymandias81
+Ozymandias81
 
 ----------------------------------------------------------------------------------------------------
 MODELS
@@ -18,9 +18,10 @@ ACTIVISION for Return To Castle Wolfenstein, Call Of Duty 1-2-UO
 	MD3 MODELS: -
 	
 BETHESDA SOFTWORKS & IRON GALAXY STUDIOS for Elder Scrolls V: Skyrim
-	OBJ MODELS: brmushroom01, 
+	OBJ MODELS: brmushroom, alduin, alduinwall, azura, boethiah, nocturnal 
 	MD3 MODELS: malacath, shbbowl, shfacedoor, sovnbraz, swfungpod, atronachfrost, atronachstorm
-	beehive, beehiveburn, blackpool, brcrystal, chaurus, dragonpriest, ysgramor, ysgraxe
+	beehive, beehiveburn, blackpool, brcrystal, chaurus, dragonpriest, ysgramor, ysgraxe,
+	clavicushrine, noctbasin, nodogclavicus
 
 MONOLITH PRODUCTIONS for No One Lives Forever 1
 	OBJ MODELS: -

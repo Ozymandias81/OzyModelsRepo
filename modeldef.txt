@@ -152,12 +152,98 @@ Model YsgramorAxe
 	FrameIndex MDLA A 0 0
 }
 
+Model ClavicusVile
+{
+	Path "models/skyrim"
+	Model 0 "clavicushrine.md3"
+	Scale 1.0 1.0 1.0
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model ClavicusVileNoDog
+{
+	Path "models/skyrim"
+	Model 0 "nodogclavicus.md3"
+	Scale 1.0 1.0 1.0
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model NocturnalBasin
+{
+	Path "models/skyrim"
+	Model 0 "noctbasin.md3"
+	Scale 1.0 1.0 1.0
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
 //OBJ DEFS//
 Model BREMushroom
 {
 	Path "models/skyrim"
-	Model 0 "brmushroom01.obj"
+	Model 0 "brmushroom.obj"
 	Scale 0.3 0.3 0.3
+	AngleOffset 90 //why?
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model Alduin
+{
+	Path "models/skyrim"
+	Model 0 "alduin.obj"
+	Scale 1.0 1.0 1.0
+	AngleOffset 90 //why?
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model AlduinWall
+{
+	Path "models/skyrim"
+	Model 0 "alduinwall.obj"
+	Scale 1.0 1.0 1.0
+	AngleOffset 90 //why?
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model Azura
+{
+	Path "models/skyrim"
+	Model 0 "shrineofazura.obj"
+	Scale 0.05 0.05 0.05
+	AngleOffset 90 //why?
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model Boethiah
+{
+	Path "models/skyrim"
+	Model 0 "shrineofboethiah.obj"
+	Scale 1.0 1.0 1.0
+	AngleOffset 90 //why?
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model Nocturnal
+{
+	Path "models/skyrim"
+	Model 0 "noctstatue.obj"
+	Scale 1.0 1.0 1.0
+	AngleOffset 90 //why?
 	USEACTORPITCH
 	USEACTORROLL
 	FrameIndex MDLA A 0 0
