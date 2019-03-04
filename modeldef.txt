@@ -1,5 +1,5 @@
 //Defs for Skyrim models by Ozymandias81
-//Original .nif models ripped and converted with NifSkope and Misfit Model3d
+//Original .nif models ripped and converted with NifSkope, Misfit Model3d and Milkshape3d
 
 //MD3 DEFS//
 Model Malacath
@@ -106,7 +106,7 @@ Model BRCrystalRock1
 {
 	Path "models/skyrim"
 	Model 0 "brcrystal.md3"
-	Scale 1.0 1.0 1.0
+	Scale 0.5 0.5 0.5
 	USEACTORPITCH
 	USEACTORROLL
 	FrameIndex MDLA A 0 0
@@ -182,13 +182,43 @@ Model NocturnalBasin
 	FrameIndex MDLA A 0 0
 }
 
+Model Hircine
+{
+	Path "models/skyrim"
+	Model 0 "hircine.md3"
+	Scale 1.0 1.0 1.0
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model Mehrunes
+{
+	Path "models/skyrim"
+	Model 0 "mehrunes.md3"
+	Scale 1.0 1.0 1.0
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model Mara
+{
+	Path "models/skyrim"
+	Model 0 "mara.md3"
+	Scale 1.0 1.0 1.0
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
 //OBJ DEFS//
 Model BREMushroom
 {
 	Path "models/skyrim"
 	Model 0 "brmushroom.obj"
 	Scale 0.3 0.3 0.3
-	AngleOffset 90 //why?
+	AngleOffset 90 
 	USEACTORPITCH
 	USEACTORROLL
 	FrameIndex MDLA A 0 0
@@ -199,7 +229,7 @@ Model Alduin
 	Path "models/skyrim"
 	Model 0 "alduin.obj"
 	Scale 1.0 1.0 1.0
-	AngleOffset 90 //why?
+	AngleOffset 90 
 	USEACTORPITCH
 	USEACTORROLL
 	FrameIndex MDLA A 0 0
@@ -210,7 +240,7 @@ Model AlduinWall
 	Path "models/skyrim"
 	Model 0 "alduinwall.obj"
 	Scale 1.0 1.0 1.0
-	AngleOffset 90 //why?
+	AngleOffset 90 
 	USEACTORPITCH
 	USEACTORROLL
 	FrameIndex MDLA A 0 0
@@ -219,9 +249,9 @@ Model AlduinWall
 Model Azura
 {
 	Path "models/skyrim"
-	Model 0 "shrineofazura.obj"
+	Model 0 "azura.obj"
 	Scale 0.05 0.05 0.05
-	AngleOffset 90 //why?
+	AngleOffset 90 
 	USEACTORPITCH
 	USEACTORROLL
 	FrameIndex MDLA A 0 0
@@ -230,9 +260,9 @@ Model Azura
 Model Boethiah
 {
 	Path "models/skyrim"
-	Model 0 "shrineofboethiah.obj"
-	Scale 1.0 1.0 1.0
-	AngleOffset 90 //why?
+	Model 0 "boethiah.obj"
+	Scale 0.5 0.5 0.5
+	AngleOffset 90 
 	USEACTORPITCH
 	USEACTORROLL
 	FrameIndex MDLA A 0 0
@@ -241,9 +271,20 @@ Model Boethiah
 Model Nocturnal
 {
 	Path "models/skyrim"
-	Model 0 "noctstatue.obj"
-	Scale 1.0 1.0 1.0
-	AngleOffset 90 //why?
+	Model 0 "nocturnal.obj"
+	Scale 0.5 0.5 0.5
+	AngleOffset 90 
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model Namira
+{
+	Path "models/skyrim"
+	Model 0 "namira.obj"
+	Scale 0.5 0.5 0.5
+	AngleOffset 90 
 	USEACTORPITCH
 	USEACTORROLL
 	FrameIndex MDLA A 0 0

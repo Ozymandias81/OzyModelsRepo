@@ -35,6 +35,12 @@ ACTOR Nocturnal : 3dBase
 	//$Title Shrine Of Nocturnal
 }
 
+ACTOR Namira : 3dBaseFloat
+{
+	//$Category Models (Skyrim)
+	//$Title Shrine Of Namira
+}
+
 //MD3 MODELS//
 ACTOR Malacath : 3dBase
 {
@@ -139,4 +145,22 @@ ACTOR NocturnalBasin : 3dBase
 {
 	//$Category Models (Skyrim)
 	//$Title Nocturnal Decorative Basin
+}
+
+ACTOR Hircine : 3dBase
+{
+	//$Category Models (Skyrim)
+	//$Title Shrine Of Hircine
+}
+
+ACTOR Mehrunes : 3dBase
+{
+	//$Category Models (Skyrim)
+	//$Title Shrine Of Mehrunes Dagon
+}
+
+ACTOR Mara : 3dBase
+{
+	//$Category Models (Skyrim)
+	//$Title Shrine Of Mara
 }

@@ -14,9 +14,9 @@ Editors used:
 - Bulk Rename Utility : https://www.bulkrenameutility.co.uk/Download.php
 - Dragon UnPacker : https://www.elberethzone.net/dragon-unpacker.html
 - GIMP : https://www.gimp.org
-- GZDoomBuilder : https://devbuilds.drdteam.org/gzdoom/
+- GZDoomBuilder : https://devbuilds.drdteam.org/gzdbbf/
 - HxD Hex Editor : https://mh-nexus.de/en/hxd/
-- MilkShape : http://www.milkshape3d.com
+- MilkShape3d : http://www.milkshape3d.com
 - Misfit3d : http://www.misfitcode.com/misfitmodel3d/
 - NifSkope : https://github.com/niftools/nifskope/releases
 - Notepad++ : https://notepad-plus-plus.org
@@ -24,7 +24,9 @@ Editors used:
 - XModel Exporter : http://www.diegologic.net/CoD_tools/XmodelExporter.htm
 
 Known Bugs:
-- WILL BE UPDATED FROM TIME TO TIME
+- .obj models works only with GZDoom 3.8+ builds
+- .obj models doesn't support animations and they are not supported by GZDoom Builder yet
+- .obj models have AngleOffset defined because of this: https://forum.zdoom.org/viewtopic.php?f=37&t=63762#p1093917
 
 Copy Information:
 You may use this repository for your own projects as long as you credit the creators.

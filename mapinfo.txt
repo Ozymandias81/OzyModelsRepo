@@ -24,4 +24,8 @@ DoomEdNums
 	20021=ClavicusVileNoDog
 	20022=NocturnalBasin
 	20023=Nocturnal
+	20024=Hircine
+	20025=Mehrunes
+	20026=Mara
+	20027=Namira
 }
