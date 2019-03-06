@@ -53,6 +53,12 @@ ACTOR Meridia : 3dBaseFloat
 	//$Title Shrine Of Meridia
 }
 
+ACTOR Doggo : 3dBase
+{
+	//$Category Models (Skyrim)
+	//$Title Doggo
+}
+
 //MD3 MODELS//
 ACTOR Malacath : 3dBase
 {

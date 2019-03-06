@@ -35,4 +35,5 @@ DoomEdNums
 	20032=FalmerStatue
 	20033=Meridia
 	20034=Talos
+	20035=Doggo
 }
