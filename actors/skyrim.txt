@@ -164,3 +164,25 @@ ACTOR Mara : 3dBase
 	//$Category Models (Skyrim)
 	//$Title Shrine Of Mara
 }
+
+ACTOR BearForest : 3dBase
+{
+	//$Category Models (Skyrim)
+	//$Title Bear, Forest
+}
+
+ACTOR BearCave : BearForest
+{
+	//$Title Bear, Caves
+}
+
+ACTOR BearPolar : BearForest
+{
+	//$Title Bear, Polar
+}
+
+ACTOR DSCenturion : 3dBase
+{
+	//$Category Models (Skyrim)
+	//$Title Dwarven Sphere Centurion
+}

@@ -212,6 +212,46 @@ Model Mara
 	FrameIndex MDLA A 0 0
 }
 
+Model BearForest
+{
+	Path "models/skyrim"
+	Model 0 "bearforest.md3"
+	Scale 0.5 0.5 0.5
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model BearCave
+{
+	Path "models/skyrim"
+	Model 0 "bearcave.md3"
+	Scale 0.5 0.5 0.5
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model BearPolar
+{
+	Path "models/skyrim"
+	Model 0 "bearpolar.md3"
+	Scale 0.5 0.5 0.5
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model DSCenturion
+{
+	Path "models/skyrim"
+	Model 0 "dscenturion.md3"
+	Scale 0.5 0.5 0.5
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
 //OBJ DEFS//
 Model BREMushroom
 {
