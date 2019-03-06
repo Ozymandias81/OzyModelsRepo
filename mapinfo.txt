@@ -32,4 +32,7 @@ DoomEdNums
 	20029=BearCave
 	20030=BearPolar
 	20031=DSCenturion
+	20032=FalmerStatue
+	20033=Meridia
+	20034=Talos
 }

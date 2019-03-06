@@ -252,6 +252,16 @@ Model DSCenturion
 	FrameIndex MDLA A 0 0
 }
 
+Model Talos
+{
+	Path "models/skyrim"
+	Model 0 "talos.md3"
+	Scale 1.0 1.0 1.0
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
 //OBJ DEFS//
 Model BREMushroom
 {
@@ -323,6 +333,28 @@ Model Namira
 {
 	Path "models/skyrim"
 	Model 0 "namira.obj"
+	Scale 0.5 0.5 0.5
+	AngleOffset 90 
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model FalmerStatue
+{
+	Path "models/skyrim"
+	Model 0 "falmerstatue.obj"
+	Scale 0.2 0.2 0.2
+	AngleOffset 90 
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model Meridia
+{
+	Path "models/skyrim"
+	Model 0 "meridia.obj"
 	Scale 0.5 0.5 0.5
 	AngleOffset 90 
 	USEACTORPITCH
