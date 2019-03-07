@@ -36,4 +36,6 @@ DoomEdNums
 	20033=Meridia
 	20034=Talos
 	20035=Doggo
+	20036=DwarvenSpider
+	20037=SteamCenturion
 }

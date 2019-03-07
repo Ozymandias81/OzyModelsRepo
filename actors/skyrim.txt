@@ -59,6 +59,12 @@ ACTOR Doggo : 3dBase
 	//$Title Doggo
 }
 
+ACTOR SteamCenturion : 3dBase
+{
+	//$Category Models (Skyrim)
+	//$Title Dwarven Steam Centurion
+}
+
 //MD3 MODELS//
 ACTOR Malacath : 3dBase
 {
@@ -209,4 +215,10 @@ ACTOR Talos : 3dBase
 {
 	//$Category Models (Skyrim)
 	//$Title Shrine Of Talos
+}
+
+ACTOR DwarvenSpider : 3dBase
+{
+	//$Category Models (Skyrim)
+	//$Title Dwarven Spider
 }
