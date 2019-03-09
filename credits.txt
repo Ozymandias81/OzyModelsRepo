@@ -17,6 +17,14 @@ ACTIVISION for Return To Castle Wolfenstein, Call Of Duty 1-2-UO
 	OBJ MODELS: -
 	MD3 MODELS: -
 	
+BETHESDA SOFTWORKS & BETHESDA GAME STUDIOS for Elder Scrolls III: Morrowind
+	OBJ MODELS: -
+	MD3 MODELS: burialfurn1,
+	
+BETHESDA SOFTWORKS & BETHESDA GAME STUDIOS for Elder Scrolls IV: Oblivion
+	OBJ MODELS: -
+	MD3 MODELS: necroaltar,
+	
 BETHESDA SOFTWORKS & IRON GALAXY STUDIOS for Elder Scrolls V: Skyrim
 	OBJ MODELS: brmushroom, alduin, alduinwall, azura, boethiah, nocturnal, namira, falmerstatue,
 	meridia, doggo, steamcenturion,
@@ -25,6 +33,14 @@ BETHESDA SOFTWORKS & IRON GALAXY STUDIOS for Elder Scrolls V: Skyrim
 	beehive, beehiveburn, blackpool, brcrystal, chaurus, dragonpriest, ysgramor, ysgraxe,
 	clavicushrine, noctbasin, nodogclavicus, hircine, mehrunes, mara, bearforest, bearcave,
 	bearpolar, dscenturion, talos, dwarvenspider,
+	
+BETHESDA SOFTWORKS & BETHESDA GAME STUDIOS for Fallout III
+	OBJ MODELS: -
+	MD3 MODELS: -
+	
+BETHESDA SOFTWORKS & OBSIDIAN ENTERTAINMENT for Fallout III: New Vegas
+	OBJ MODELS: -
+	MD3 MODELS: -
 
 MONOLITH PRODUCTIONS for No One Lives Forever 1
 	OBJ MODELS: -

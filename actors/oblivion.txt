@@ -1,0 +1,8 @@
+// OBJ MODELS //
+
+// MD3 MODELS //
+ACTOR NecroAltar : 3dBase
+{
+	//$Category Models (Oblivion)
+	//$Title Necromancer's Altar
+}

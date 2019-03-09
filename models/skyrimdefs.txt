@@ -1,0 +1,395 @@
+//Defs for Skyrim models by Ozymandias81
+//Original .nif models ripped and converted with NifSkope, Misfit Model3d and Milkshape3d
+
+//MD3 DEFS//
+Model Malacath
+{
+	Path "models/skyrim"
+	Model 0 "malacath.md3"
+	Scale 1.0 1.0 1.0
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model SHBloodBowl
+{
+	Path "models/skyrim"
+	Model 0 "shbbowl.md3"
+	Scale 1.0 1.0 1.0
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model SHFaceDoor
+{
+	Path "models/skyrim"
+	Model 0 "shfacedoor.md3"
+	Scale 1.0 1.0 1.0
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model SovnBrazier
+{
+	Path "models/skyrim"
+	Model 0 "sovnbraz.md3"
+	Scale 1.0 1.0 1.0
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model SwampFungalPod
+{
+	Path "models/skyrim"
+	Model 0 "swfungpod.md3"
+	Scale 1.0 1.0 1.0
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model AtronachFrost
+{
+	Path "models/skyrim"
+	Model 0 "atronachfrost.md3"
+	Scale 1.0 1.0 1.0
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model AtronachStorm
+{
+	Path "models/skyrim"
+	Model 0 "atronachstorm.md3"
+	Scale 1.0 1.0 1.0
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model BeeHive1
+{
+	Path "models/skyrim"
+	Model 0 "beehive.md3"
+	Scale 1.0 1.0 1.0
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model BeeHive2
+{
+	Path "models/skyrim"
+	Model 0 "beehiveburn.md3"
+	Scale 1.0 1.0 1.0
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model Blackpool
+{
+	Path "models/skyrim"
+	Model 0 "blackpool.md3"
+	Scale 1.0 1.0 1.0
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model BRCrystalRock1
+{
+	Path "models/skyrim"
+	Model 0 "brcrystal.md3"
+	Scale 0.5 0.5 0.5
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model Chaurus
+{
+	Path "models/skyrim"
+	Model 0 "chaurus.md3"
+	Scale 1.0 1.0 1.0
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model DragonPriest
+{
+	Path "models/skyrim"
+	Model 0 "dragonpriest.md3"
+	Scale 1.0 1.0 1.0
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model YsgramorStatue
+{
+	Path "models/skyrim"
+	Model 0 "ysgramor.md3"
+	Scale 1.0 1.0 1.0
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model YsgramorAxe
+{
+	Path "models/skyrim"
+	Model 0 "ysgraxe.md3"
+	Scale 1.0 1.0 1.0
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model ClavicusVile
+{
+	Path "models/skyrim"
+	Model 0 "clavicushrine.md3"
+	Scale 1.0 1.0 1.0
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model ClavicusVileNoDog
+{
+	Path "models/skyrim"
+	Model 0 "nodogclavicus.md3"
+	Scale 1.0 1.0 1.0
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model NocturnalBasin
+{
+	Path "models/skyrim"
+	Model 0 "noctbasin.md3"
+	Scale 1.0 1.0 1.0
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model Hircine
+{
+	Path "models/skyrim"
+	Model 0 "hircine.md3"
+	Scale 1.0 1.0 1.0
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model Mehrunes
+{
+	Path "models/skyrim"
+	Model 0 "mehrunes.md3"
+	Scale 1.0 1.0 1.0
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model Mara
+{
+	Path "models/skyrim"
+	Model 0 "mara.md3"
+	Scale 1.0 1.0 1.0
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model BearForest
+{
+	Path "models/skyrim"
+	Model 0 "bearforest.md3"
+	Scale 0.5 0.5 0.5
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model BearCave
+{
+	Path "models/skyrim"
+	Model 0 "bearcave.md3"
+	Scale 0.5 0.5 0.5
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model BearPolar
+{
+	Path "models/skyrim"
+	Model 0 "bearpolar.md3"
+	Scale 0.5 0.5 0.5
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model DSCenturion
+{
+	Path "models/skyrim"
+	Model 0 "dscenturion.md3"
+	Scale 0.7 0.7 0.7
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model Talos
+{
+	Path "models/skyrim"
+	Model 0 "talos.md3"
+	Scale 1.0 1.0 1.0
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model DwarvenSpider
+{
+	Path "models/skyrim"
+	Model 0 "dwarvenspider.md3"
+	Scale 0.5 0.5 0.5
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+//OBJ DEFS//
+Model BREMushroom
+{
+	Path "models/skyrim"
+	Model 0 "brmushroom.obj"
+	Scale 0.3 0.3 0.3
+	AngleOffset 90 
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model Alduin
+{
+	Path "models/skyrim"
+	Model 0 "alduin.obj"
+	Scale 1.0 1.0 1.0
+	AngleOffset 90 
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model AlduinWall
+{
+	Path "models/skyrim"
+	Model 0 "alduinwall.obj"
+	Scale 1.0 1.0 1.0
+	AngleOffset 90 
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model Azura
+{
+	Path "models/skyrim"
+	Model 0 "azura.obj"
+	Scale 0.05 0.05 0.05
+	AngleOffset 90 
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model Boethiah
+{
+	Path "models/skyrim"
+	Model 0 "boethiah.obj"
+	Scale 0.5 0.5 0.5
+	AngleOffset 90 
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model Nocturnal
+{
+	Path "models/skyrim"
+	Model 0 "nocturnal.obj"
+	Scale 0.5 0.5 0.5
+	AngleOffset 90 
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model Namira
+{
+	Path "models/skyrim"
+	Model 0 "namira.obj"
+	Scale 0.5 0.5 0.5
+	AngleOffset 90 
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model FalmerStatue
+{
+	Path "models/skyrim"
+	Model 0 "falmerstatue.obj"
+	Scale 0.2 0.2 0.2
+	AngleOffset 90 
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model Meridia
+{
+	Path "models/skyrim"
+	Model 0 "meridia.obj"
+	Scale 0.5 0.5 0.5
+	AngleOffset 90 
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model Doggo
+{
+	Path "models/skyrim"
+	Model 0 "doggo.obj"
+	Scale 1.0 1.0 1.0
+	AngleOffset 90 
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model SteamCenturion
+{
+	Path "models/skyrim"
+	Model 0 "steamcenturion.obj"
+	Scale 0.5 0.5 0.5
+	AngleOffset 90 
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}

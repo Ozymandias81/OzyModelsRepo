@@ -1,2 +1,4 @@
 #include "actors/base.txt"
+#include "actors/morrowind.txt"
+#include "actors/oblivion.txt"
 #include "actors/skyrim.txt"

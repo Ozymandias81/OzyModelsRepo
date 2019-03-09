@@ -1,5 +1,12 @@
 DoomEdNums
 {
+	//MORROWIND
+	9000=BurialFurniture1
+
+	//OBLIVION
+	10000=NecroAltar
+
+	//SKYRIM
 	20000=Malacath
 	20001=SHBloodBowl
 	20002=SHFaceDoor

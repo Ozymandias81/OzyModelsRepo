@@ -1,0 +1,15 @@
+//Defs for Oblivion models by Ozymandias81
+//Original .nif models ripped and converted with NifSkope, Misfit Model3d and Milkshape3d
+
+//MD3 DEFS//
+Model NecroAltar
+{
+	Path "models/oblivion"
+	Model 0 "necroaltar.md3"
+	Scale 0.5 0.5 0.5
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+//OBJ DEFS//

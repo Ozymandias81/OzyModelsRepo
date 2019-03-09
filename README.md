@@ -9,6 +9,7 @@ All borrowed resources present in this repo belong ONLY to respective owners/cre
 EDITORS USED:
 - 7Zip : https://www.7-zip.org
 - BSAOpt : https://www.nexusmods.com/skyrim/mods/247/
+- BSAUnpacker : https://www.nexusmods.com/skyrim/mods/4804/
 - Blender : https://www.blender.org
 - Bulk Rename Utility : https://www.bulkrenameutility.co.uk/Download.php
 - Dragon UnPacker : https://www.elberethzone.net/dragon-unpacker.html
