@@ -46,6 +46,10 @@ MONOLITH PRODUCTIONS for No One Lives Forever 1
 	OBJ MODELS: -
 	MD3 MODELS: -
 
+MONOLITH PRODUCTIONS & THIRD LAW INTERACTIVE for Alien vs Predator 2
+	OBJ MODELS: -
+	MD3 MODELS: APCdestroyed,
+
 RAVEN SOFTWARE for Hexen 2, Heretic 2, Jedi Knight 3
 	OBJ MODELS: -
 	MD3 MODELS: -

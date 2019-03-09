@@ -1,0 +1,8 @@
+// OBJ MODELS //
+
+// MD3 MODELS //
+ACTOR APCDestroyed1 : 3dBase
+{
+	//$Category Models (AvP2)
+	//$Title Destroyed APC A
+}

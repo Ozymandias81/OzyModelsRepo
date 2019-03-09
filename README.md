@@ -12,10 +12,12 @@ EDITORS USED:
 - BSAUnpacker : https://www.nexusmods.com/skyrim/mods/4804/
 - Blender : https://www.blender.org
 - Bulk Rename Utility : https://www.bulkrenameutility.co.uk/Download.php
+- DTXView : https://forum.xentax.com/viewtopic.php?f=33&t=10152
 - Dragon UnPacker : https://www.elberethzone.net/dragon-unpacker.html
 - GIMP : https://www.gimp.org
 - GZDoom : https://devbuilds.drdteam.org/gzdoom/
 - GZDoomBuilder : https://devbuilds.drdteam.org/gzdbbf/
+- Game Extractor : http://www.watto.org/game_extractor.html
 - HxD Hex Editor : https://mh-nexus.de/en/hxd/
 - MilkShape3d : http://www.milkshape3d.com
 - Misfit3d : http://www.misfitcode.com/misfitmodel3d/

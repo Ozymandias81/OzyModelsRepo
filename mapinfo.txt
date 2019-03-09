@@ -1,5 +1,8 @@
 DoomEdNums
 {
+	//AVP2
+	8000=APCDestroyed1
+	
 	//MORROWIND
 	9000=BurialFurniture1
 
