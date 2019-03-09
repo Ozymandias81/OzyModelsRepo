@@ -1,0 +1,15 @@
+//Defs for Fallout 3 models by Ozymandias81
+//Original .nif models ripped and converted with NifSkope, Misfit Model3d and Milkshape3d
+
+//MD3 DEFS//
+Model Camper1
+{
+	Path "models/fallout3"
+	Model 0 "camper01.md3"
+	Scale 1.0 1.0 1.0
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+//OBJ DEFS//

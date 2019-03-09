@@ -1,5 +1,6 @@
 #include "actors/base.txt"
 #include "actors/avp2.txt"
+#include "actors/fallout3.txt"
 #include "actors/morrowind.txt"
 #include "actors/oblivion.txt"
 #include "actors/skyrim.txt"

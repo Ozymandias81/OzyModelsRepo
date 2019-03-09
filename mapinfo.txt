@@ -48,4 +48,7 @@ DoomEdNums
 	20035=Doggo
 	20036=DwarvenSpider
 	20037=SteamCenturion
+	
+	//FALLOUT3
+	25000=Camper1
 }

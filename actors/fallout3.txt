@@ -1,0 +1,8 @@
+// OBJ MODELS //
+
+// MD3 MODELS //
+ACTOR Camper1 : 3dBaseFloat
+{
+	//$Category Models (Fallout 3)
+	//$Title Ruined Camper A
+}
