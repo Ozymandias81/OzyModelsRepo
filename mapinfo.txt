@@ -48,6 +48,8 @@ DoomEdNums
 	20035=Doggo
 	20036=DwarvenSpider
 	20037=SteamCenturion
+	20038=AltarBal_Normal
+	20039=AltarBal_Rusty
 	
 	//FALLOUT3
 	25000=Camper1

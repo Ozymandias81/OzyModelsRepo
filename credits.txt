@@ -32,7 +32,7 @@ BETHESDA SOFTWORKS & IRON GALAXY STUDIOS for Elder Scrolls V: Skyrim
 	MD3 MODELS: malacath, shbbowl, shfacedoor, sovnbraz, swfungpod, atronachfrost, atronachstorm,
 	beehive, beehiveburn, blackpool, brcrystal, chaurus, dragonpriest, ysgramor, ysgraxe,
 	clavicushrine, noctbasin, nodogclavicus, hircine, mehrunes, mara, bearforest, bearcave,
-	bearpolar, dscenturion, talos, dwarvenspider,
+	bearpolar, dscenturion, talos, dwarvenspider, altarmolag/02, rustymolag/02,
 	
 BETHESDA SOFTWORKS & BETHESDA GAME STUDIOS for Fallout III
 	OBJ MODELS: -

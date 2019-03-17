@@ -37,3 +37,20 @@ ACTOR 3dBaseFloat
 		Stop
 	}
 }
+
+ACTOR InteractionBase : SwitchableDecoration
+{
+	//$Color 3
+	DistanceCheck "lod"
+	Radius 8
+	Height 8
+	-FLOORCLIP
+	-NOBLOCKMAP
+	+CANPASS
+	+DONTSPLASH
+	+DONTTHRUST
+	+SOLID
+	+SYNCHRONIZED
+	+USESPECIAL
+	Activation THINGSPEC_Switch
+}

@@ -222,3 +222,34 @@ ACTOR DwarvenSpider : 3dBase
 	//$Category Models (Skyrim)
 	//$Title Dwarven Spider
 }
+
+//INTERACTIVE
+ACTOR AltarBal_Normal : InteractionBase
+{
+	//$Category Models (Skyrim)
+	//$Title Molag Bal Altar (normal, interactive)
+	Radius 16
+	Height 32
+	RenderRadius 128
+	States
+	{
+	Active:
+		MDLA A 0 //A_PlaySound("SOMETHING", CHAN_ITEM)
+		Play:
+		"####" BCDEFGHIJKLMNO 2
+		"####" P -1
+		Stop
+	Spawn:
+		MDLA A -1
+		Stop
+	Inactive:
+		"####" PONMLKJIHGFEDCB 2
+		"####" A -1
+		Stop
+	}
+}
+
+ACTOR AltarBal_Rusty : AltarBal_Normal
+{
+	//$Title Molag Bal Altar (rusty, interactive)
+}
