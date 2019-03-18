@@ -50,6 +50,14 @@ DoomEdNums
 	20037=SteamCenturion
 	20038=AltarBal_Normal
 	20039=AltarBal_Rusty
+	20040=Vaermina
+	20041=DiBella1
+	20042=DiBella2
+	20043=DiBella3
+	20044=DiBella4
+	20045=MetalCage1
+	20046=Peryite
+	20047=BeeStatue
 	
 	//FALLOUT3
 	25000=Camper1

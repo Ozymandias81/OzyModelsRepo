@@ -65,6 +65,12 @@ ACTOR SteamCenturion : 3dBase
 	//$Title Dwarven Steam Centurion
 }
 
+ACTOR Vaermina : 3dBase
+{
+	//$Category Models (Skyrim)
+	//$Title Vaermina's Secret Door
+}
+
 //MD3 MODELS//
 ACTOR Malacath : 3dBase
 {
@@ -221,6 +227,46 @@ ACTOR DwarvenSpider : 3dBase
 {
 	//$Category Models (Skyrim)
 	//$Title Dwarven Spider
+}
+
+ACTOR BeeStatue : 3dBase
+{
+	//$Category Models (Skyrim)
+	//$Title Bee Statue
+}
+
+ACTOR DiBella1 : 3dBase
+{
+	//$Category Models (Skyrim)
+	//$Title Di Bella Statue, Stone
+}
+
+ACTOR DiBella2 : DiBella1
+{
+	//$Title Di Bella Statue, Gold
+}
+
+ACTOR DiBella3 : DiBella1
+{
+	//$Title Di Bella Statue, Complete
+}
+
+ACTOR DiBella4 : 3dBaseFloat
+{
+	//$Category Models (Skyrim)
+	//$Title Di Bella Flower
+}
+
+ACTOR MetalCage1 : 3dBaseFloat
+{
+	//$Category Models (Skyrim)
+	//$Title Metal Cage 1
+}
+
+ACTOR Peryite : 3dBase
+{
+	//$Category Models (Skyrim)
+	//$Title Peryite Pillar
 }
 
 //INTERACTIVE
