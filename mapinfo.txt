@@ -58,6 +58,7 @@ DoomEdNums
 	20045=MetalCage1
 	20046=Peryite
 	20047=BeeStatue
+	20048=PerkSkyBox
 	
 	//FALLOUT3
 	25000=Camper1

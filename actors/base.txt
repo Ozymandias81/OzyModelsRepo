@@ -38,6 +38,19 @@ ACTOR 3dBaseFloat
 	}
 }
 
+ACTOR 3dBaseSky
+{
+	//$Color 3
+	+NOBLOCKMAP
+	+NOGRAVITY
+	States
+	{
+	Spawn:
+		MDLA A -1
+		Stop
+	}
+}
+
 ACTOR InteractionBase : SwitchableDecoration
 {
 	//$Color 3

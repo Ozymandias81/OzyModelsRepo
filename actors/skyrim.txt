@@ -71,6 +71,13 @@ ACTOR Vaermina : 3dBase
 	//$Title Vaermina's Secret Door
 }
 
+ACTOR PerkSkyBox : 3dBaseSky
+{
+	//$Category Models (Skyrim)
+	//$Title Perk SkyBox
+	RenderRadius 128
+}
+
 //MD3 MODELS//
 ACTOR Malacath : 3dBase
 {

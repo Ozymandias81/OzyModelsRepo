@@ -476,6 +476,19 @@ Model Vaermina
 	FrameIndex MDLA A 0 0
 }
 
+Model PerkSkyBox
+{
+	Path "models/skyboxes"
+	Model 0 "simpledome.obj"
+	Scale 0.019 0.019 0.019
+	USEACTORPITCH
+	USEACTORROLL
+	ROTATING
+	Rotation-Speed 0.02
+
+	FrameIndex MDLA A 0 0
+}
+
 //INTERACTIVE
 Model AltarBal_Normal
 {
