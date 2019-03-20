@@ -343,6 +343,63 @@ Model Peryite
 	FrameIndex MDLA A 0 0
 }
 
+Model Fox1
+{
+	Path "models/skyrim"
+	Model 0 "fox.md3"
+	Scale 0.5 0.5 0.5
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model Fox2
+{
+	Path "models/skyrim"
+	Model 0 "foxarctic.md3"
+	Scale 0.5 0.5 0.5
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model Wolf1
+{
+	Path "models/skyrim"
+	Model 0 "wolfblack_a.md3"
+	Model 1 "wolfblack_b.md3"
+	Skin 0 "wolfgray.png"
+	Skin 1 "wolfgray.png"
+	Scale 0.75 0.75 0.75
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model Wolf2
+{
+	Path "models/skyrim"
+	Model 0 "wolfblack_a.md3"
+	Model 1 "wolfblack_b.md3"
+	Scale 0.75 0.75 0.75
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model Wolf3
+{
+	Path "models/skyrim"
+	Model 0 "wolfblack_a.md3"
+	Model 1 "wolfblack_b.md3"
+	Skin 0 "wolfred.png"
+	Skin 1 "wolfred.png"
+	Scale 0.75 0.75 0.75
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
 //OBJ DEFS//
 Model BREMushroom
 {

@@ -1,83 +1,3 @@
-//OBJ MODELS//
-ACTOR BREMushroom : 3dBase
-{
-	//$Category Models (Skyrim)
-	//$Title Blackreach Giant Mushroom
-}
-
-ACTOR Alduin : 3dBaseFloat
-{
-	//$Category Models (Skyrim)
-	//$Title Alduin
-}
-
-ACTOR AlduinWall : 3dBaseFloat
-{
-	//$Category Models (Skyrim)
-	//$Title Alduin Loading Wall
-}
-
-ACTOR Azura : 3dBase
-{
-	//$Category Models (Skyrim)
-	//$Title Shrine Of Azura
-}
-
-ACTOR Boethiah : 3dBase
-{
-	//$Category Models (Skyrim)
-	//$Title Shrine Of Boethiah
-}
-
-ACTOR Nocturnal : 3dBase
-{
-	//$Category Models (Skyrim)
-	//$Title Shrine Of Nocturnal
-}
-
-ACTOR Namira : 3dBaseFloat
-{
-	//$Category Models (Skyrim)
-	//$Title Shrine Of Namira
-}
-
-ACTOR FalmerStatue : 3dBaseFloat
-{
-	//$Category Models (Skyrim)
-	//$Title Falmer's Shrine
-}
-
-ACTOR Meridia : 3dBaseFloat
-{
-	//$Category Models (Skyrim)
-	//$Title Shrine Of Meridia
-}
-
-ACTOR Doggo : 3dBase
-{
-	//$Category Models (Skyrim)
-	//$Title Doggo
-}
-
-ACTOR SteamCenturion : 3dBase
-{
-	//$Category Models (Skyrim)
-	//$Title Dwarven Steam Centurion
-}
-
-ACTOR Vaermina : 3dBase
-{
-	//$Category Models (Skyrim)
-	//$Title Vaermina's Secret Door
-}
-
-ACTOR PerkSkyBox : 3dBaseSky
-{
-	//$Category Models (Skyrim)
-	//$Title Perk SkyBox
-	RenderRadius 128
-}
-
 //MD3 MODELS//
 ACTOR Malacath : 3dBase
 {
@@ -274,6 +194,112 @@ ACTOR Peryite : 3dBase
 {
 	//$Category Models (Skyrim)
 	//$Title Peryite Pillar
+}
+
+ACTOR Fox1 : 3dBase
+{
+	//$Category Models (Skyrim)
+	//$Title Fox, Wild
+}
+
+ACTOR Fox2 : Fox1
+{
+	//$Title Fox, Arctic
+}
+
+ACTOR Wolf1 : Fox1
+{
+	//$Title Wolf, Grey
+}
+
+ACTOR Wolf2 : Fox1
+{
+	//$Title Wolf, Black
+}
+
+ACTOR Wolf3 : Fox1
+{
+	//$Title Wolf, Red
+}
+
+//OBJ MODELS//
+ACTOR BREMushroom : 3dBase
+{
+	//$Category Models (Skyrim)
+	//$Title Blackreach Giant Mushroom
+}
+
+ACTOR Alduin : 3dBaseFloat
+{
+	//$Category Models (Skyrim)
+	//$Title Alduin
+}
+
+ACTOR AlduinWall : 3dBaseFloat
+{
+	//$Category Models (Skyrim)
+	//$Title Alduin Loading Wall
+}
+
+ACTOR Azura : 3dBase
+{
+	//$Category Models (Skyrim)
+	//$Title Shrine Of Azura
+}
+
+ACTOR Boethiah : 3dBase
+{
+	//$Category Models (Skyrim)
+	//$Title Shrine Of Boethiah
+}
+
+ACTOR Nocturnal : 3dBase
+{
+	//$Category Models (Skyrim)
+	//$Title Shrine Of Nocturnal
+}
+
+ACTOR Namira : 3dBaseFloat
+{
+	//$Category Models (Skyrim)
+	//$Title Shrine Of Namira
+}
+
+ACTOR FalmerStatue : 3dBaseFloat
+{
+	//$Category Models (Skyrim)
+	//$Title Falmer's Shrine
+}
+
+ACTOR Meridia : 3dBaseFloat
+{
+	//$Category Models (Skyrim)
+	//$Title Shrine Of Meridia
+}
+
+ACTOR Doggo : 3dBase
+{
+	//$Category Models (Skyrim)
+	//$Title Doggo
+}
+
+ACTOR SteamCenturion : 3dBase
+{
+	//$Category Models (Skyrim)
+	//$Title Dwarven Steam Centurion
+}
+
+ACTOR Vaermina : 3dBase
+{
+	//$Category Models (Skyrim)
+	//$Title Vaermina's Secret Door
+}
+
+ACTOR PerkSkyBox : 3dBaseSky
+{
+	//$Category Models (Skyrim)
+	//$Title Perk SkyBox
+	RenderRadius 128
 }
 
 //INTERACTIVE

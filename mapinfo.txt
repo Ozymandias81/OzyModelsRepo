@@ -59,6 +59,11 @@ DoomEdNums
 	20046=Peryite
 	20047=BeeStatue
 	20048=PerkSkyBox
+	20049=Fox1
+	20050=Fox2
+	20051=Wolf1
+	20052=Wolf2
+	20053=Wolf3
 	
 	//FALLOUT3
 	25000=Camper1
