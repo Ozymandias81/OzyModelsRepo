@@ -64,6 +64,13 @@ DoomEdNums
 	20051=Wolf1
 	20052=Wolf2
 	20053=Wolf3
+	20054=SChicken
+	20055=Deer1
+	20056=Deer2
+	20057=Deer3
+	20058=Goat1
+	20059=Goat2
+	20060=Cow
 	
 	//FALLOUT3
 	25000=Camper1

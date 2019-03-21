@@ -27,13 +27,14 @@ BETHESDA SOFTWORKS & BETHESDA GAME STUDIOS for Elder Scrolls IV: Oblivion
 	
 BETHESDA SOFTWORKS & IRON GALAXY STUDIOS for Elder Scrolls V: Skyrim
 	OBJ MODELS: brmushroom, alduin, alduinwall, azura, boethiah, nocturnal, namira, falmerstatue,
-	meridia, doggo, steamcenturion, vaermina, simpledome,
+	meridia, vaermina, simpledome,
 
 	MD3 MODELS: malacath, shbbowl, shfacedoor, sovnbraz, swfungpod, atronachfrost, atronachstorm,
 	beehive, beehiveburn, blackpool, brcrystal, chaurus, dragonpriest, ysgramor, ysgraxe,
 	clavicushrine, noctbasin, nodogclavicus, hircine, mehrunes, mara, bearforest, bearcave,
 	bearpolar, dscenturion, talos, dwarvenspider, altarmolag/02, rustymolag/02, beestatue,
-	dibella1-3-4, metalcage1, peryite, fox, foxarctic, wolfblack_a/b,
+	dibella1-3-4, metalcage1, peryite, fox, foxarctic, wolfblack_a/b, chicken, femdeer, maledeer,
+	reindeer, goat01-02, highlandcow, doggo, steamcenturion,
 	
 BETHESDA SOFTWORKS & BETHESDA GAME STUDIOS for Fallout III
 	OBJ MODELS: -

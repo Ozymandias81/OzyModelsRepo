@@ -116,7 +116,7 @@ Model Chaurus
 {
 	Path "models/skyrim"
 	Model 0 "chaurus.md3"
-	Scale 1.0 1.0 1.0
+	Scale 0.5 0.5 0.5
 	USEACTORPITCH
 	USEACTORROLL
 	FrameIndex MDLA A 0 0
@@ -366,10 +366,7 @@ Model Fox2
 Model Wolf1
 {
 	Path "models/skyrim"
-	Model 0 "wolfblack_a.md3"
-	Model 1 "wolfblack_b.md3"
-	Skin 0 "wolfgray.png"
-	Skin 1 "wolfgray.png"
+	Model 0 "wolfgray.md3"
 	Scale 0.75 0.75 0.75
 	USEACTORPITCH
 	USEACTORROLL
@@ -379,8 +376,8 @@ Model Wolf1
 Model Wolf2
 {
 	Path "models/skyrim"
-	Model 0 "wolfblack_a.md3"
-	Model 1 "wolfblack_b.md3"
+	Model 0 "wolfgray.md3"
+	Skin 0 "wolfblack.png"
 	Scale 0.75 0.75 0.75
 	USEACTORPITCH
 	USEACTORROLL
@@ -390,11 +387,99 @@ Model Wolf2
 Model Wolf3
 {
 	Path "models/skyrim"
-	Model 0 "wolfblack_a.md3"
-	Model 1 "wolfblack_b.md3"
+	Model 0 "wolfgray.md3"
 	Skin 0 "wolfred.png"
-	Skin 1 "wolfred.png"
 	Scale 0.75 0.75 0.75
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model SChicken
+{
+	Path "models/skyrim"
+	Model 0 "chicken.md3"
+	Scale 0.75 0.75 0.75
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model Deer1
+{
+	Path "models/skyrim"
+	Model 0 "maledeer.md3"
+	Scale 0.4 0.4 0.4
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model Deer2
+{
+	Path "models/skyrim"
+	Model 0 "femdeer.md3"
+	Scale 0.4 0.4 0.4
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model Deer3
+{
+	Path "models/skyrim"
+	Model 0 "reindeer.md3"
+	Scale 0.5 0.5 0.5
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model Goat1
+{
+	Path "models/skyrim"
+	Model 0 "goat01.md3"
+	Scale 0.5 0.5 0.5
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model Goat2
+{
+	Path "models/skyrim"
+	Model 0 "goat02.md3"
+	Scale 0.5 0.5 0.5
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model Cow
+{
+	Path "models/skyrim"
+	Model 0 "highlandcow.md3"
+	Scale 0.8 0.8 0.8
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model Doggo
+{
+	Path "models/skyrim"
+	Model 0 "doggo.md3"
+	Scale 0.5 0.5 0.5
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model SteamCenturion
+{
+	Path "models/skyrim"
+	Model 0 "steamcenturion.md3"
+	Scale 0.5 0.5 0.5
 	USEACTORPITCH
 	USEACTORROLL
 	FrameIndex MDLA A 0 0
@@ -493,28 +578,6 @@ Model Meridia
 {
 	Path "models/skyrim"
 	Model 0 "meridia.obj"
-	Scale 0.5 0.5 0.5
-	AngleOffset 90 
-	USEACTORPITCH
-	USEACTORROLL
-	FrameIndex MDLA A 0 0
-}
-
-Model Doggo
-{
-	Path "models/skyrim"
-	Model 0 "doggo.obj"
-	Scale 1.0 1.0 1.0
-	AngleOffset 90 
-	USEACTORPITCH
-	USEACTORROLL
-	FrameIndex MDLA A 0 0
-}
-
-Model SteamCenturion
-{
-	Path "models/skyrim"
-	Model 0 "steamcenturion.obj"
 	Scale 0.5 0.5 0.5
 	AngleOffset 90 
 	USEACTORPITCH

@@ -5,6 +5,18 @@ ACTOR Malacath : 3dBase
 	//$Title Malacath Statue
 }
 
+ACTOR Doggo : 3dBase
+{
+	//$Category Models (Skyrim)
+	//$Title Doggo
+}
+
+ACTOR SteamCenturion : 3dBase
+{
+	//$Category Models (Skyrim)
+	//$Title Dwarven Steam Centurion
+}
+
 ACTOR SHBloodBowl : 3dBase
 {
 	//$Category Models (Skyrim)
@@ -222,6 +234,41 @@ ACTOR Wolf3 : Fox1
 	//$Title Wolf, Red
 }
 
+ACTOR SChicken : Fox1
+{
+	//$Title Chicken
+}
+
+ACTOR Deer1 : Fox1
+{
+	//$Title Deer, Male
+}
+
+ACTOR Deer2 : Fox1
+{
+	//$Title Deer, Female
+}
+
+ACTOR Deer3 : Fox1
+{
+	//$Title Deer, Friendly Reindeer
+}
+
+ACTOR Goat1 : Fox1
+{
+	//$Title Goat
+}
+
+ACTOR Goat2 : Fox1
+{
+	//$Title Goat with Bell
+}
+
+ACTOR Cow : Fox1
+{
+	//$Title Highland Cow
+}
+
 //OBJ MODELS//
 ACTOR BREMushroom : 3dBase
 {
@@ -275,18 +322,6 @@ ACTOR Meridia : 3dBaseFloat
 {
 	//$Category Models (Skyrim)
 	//$Title Shrine Of Meridia
-}
-
-ACTOR Doggo : 3dBase
-{
-	//$Category Models (Skyrim)
-	//$Title Doggo
-}
-
-ACTOR SteamCenturion : 3dBase
-{
-	//$Category Models (Skyrim)
-	//$Title Dwarven Steam Centurion
 }
 
 ACTOR Vaermina : 3dBase
