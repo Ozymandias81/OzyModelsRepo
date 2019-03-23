@@ -1,5 +1,11 @@
 DoomEdNums
 {
+	//AMNESIA
+	7000=AM_ArmChair
+	7001=AM_NiceBed
+	7002=AM_NiceChair1
+	7003=AM_Eagle
+
 	//AVP2
 	8000=APCDestroyed1
 	

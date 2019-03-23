@@ -1,0 +1,26 @@
+// MD3 MODELS //
+ACTOR AM_ArmChair : 3dBase
+{
+	//$Category Models (Amnesia)
+	//$Title Armored Chair
+}
+
+ACTOR AM_NiceBed : 3dBase
+{
+	//$Category Models (Amnesia)
+	//$Title Ornated Bed
+}
+
+ACTOR AM_NiceChair1 : 3dBase
+{
+	//$Category Models (Amnesia)
+	//$Title French Chair 1
+}
+
+ACTOR AM_Eagle : 3dBaseFloat
+{
+	//$Category Models (Amnesia)
+	//$Title Eagle Bust, Stone
+}
+
+// OBJ MODELS //

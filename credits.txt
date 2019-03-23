@@ -44,6 +44,14 @@ BETHESDA SOFTWORKS & OBSIDIAN ENTERTAINMENT for Fallout III: New Vegas
 	OBJ MODELS: -
 	MD3 MODELS: -
 
+FRICTIONAL GAMES for Amnesia: The Dark Descent
+	OBJ MODELS: -
+	MD3 MODELS: armchair, bed_nice, chair_nice01, am_eagle,
+	
+FRICTIONAL GAMES & THE CHINESE ROOM for Amnesia: A Machine For Pigs
+	OBJ MODELS: -
+	MD3 MODELS: -
+	
 MONOLITH PRODUCTIONS for No One Lives Forever 1
 	OBJ MODELS: -
 	MD3 MODELS: -

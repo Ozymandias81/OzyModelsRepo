@@ -1,0 +1,45 @@
+//Defs for Amnesia models by Ozymandias81
+//Original .dae models ripped and converted with Misfit Model3d and Blender
+
+//MD3 DEFS//
+Model AM_ArmChair
+{
+	Path "models/amnesia"
+	Model 0 "armchair.md3"
+	Scale 50.0 50.0 50.0
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model AM_NiceBed
+{
+	Path "models/amnesia"
+	Model 0 "bed_nice.md3"
+	Scale 50.0 50.0 50.0
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model AM_NiceChair1
+{
+	Path "models/amnesia"
+	Model 0 "chair_nice01.md3"
+	Scale 50.0 50.0 50.0
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+Model AM_Eagle
+{
+	Path "models/amnesia"
+	Model 0 "am_eagle.md3"
+	Scale 50.0 50.0 50.0
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
+//OBJ DEFS//
