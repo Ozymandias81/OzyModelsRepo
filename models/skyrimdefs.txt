@@ -605,7 +605,6 @@ Model PerkSkyBox
 	USEACTORROLL
 	ROTATING
 	Rotation-Speed 0.02
-
 	FrameIndex MDLA A 0 0
 }
 

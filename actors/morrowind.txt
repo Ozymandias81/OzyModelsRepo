@@ -1,8 +1,14 @@
-// OBJ MODELS //
-
 // MD3 MODELS //
 ACTOR BurialFurniture1 : 3dBase
 {
 	//$Category Models (Morrowind)
 	//$Title Burial Furniture A
+}
+
+// OBJ MODELS //
+ACTOR MWNightSkyBox : 3dBaseSky
+{
+	//$Category Models (Morrowind)
+	//$Title Night Starry SkyBox
+	RenderRadius 128
 }

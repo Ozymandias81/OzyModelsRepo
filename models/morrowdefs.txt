@@ -13,3 +13,14 @@ Model BurialFurniture1
 }
 
 //OBJ DEFS//
+Model MWNightSkyBox
+{
+	Path "models/morrowind"
+	Model 0 "sky_night1.obj"
+	Scale 0.5 0.5 0.5
+	USEACTORPITCH
+	USEACTORROLL
+	ROTATING
+	Rotation-Speed 0.02
+	FrameIndex MDLA A 0 0
+}

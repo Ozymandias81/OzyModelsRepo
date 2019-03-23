@@ -11,6 +11,7 @@ DoomEdNums
 	
 	//MORROWIND
 	9000=BurialFurniture1
+	9001=MWNightSkyBox
 
 	//OBLIVION
 	10000=NecroAltar

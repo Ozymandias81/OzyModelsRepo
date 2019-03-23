@@ -18,7 +18,7 @@ ACTIVISION for Return To Castle Wolfenstein, Call Of Duty 1-2-UO
 	MD3 MODELS: -
 	
 BETHESDA SOFTWORKS & BETHESDA GAME STUDIOS for Elder Scrolls III: Morrowind
-	OBJ MODELS: -
+	OBJ MODELS: sky_night1,
 	MD3 MODELS: burialfurn1,
 	
 BETHESDA SOFTWORKS & BETHESDA GAME STUDIOS for Elder Scrolls IV: Oblivion
