@@ -42,4 +42,14 @@ Model AM_Eagle
 	FrameIndex MDLA A 0 0
 }
 
+Model AM_SimpleBed
+{
+	Path "models/amnesia"
+	Model 0 "bed_simple.md3"
+	Scale 2.5 2.5 2.5
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
 //OBJ DEFS//

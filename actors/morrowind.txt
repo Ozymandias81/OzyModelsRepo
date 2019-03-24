@@ -8,7 +8,54 @@ ACTOR BurialFurniture1 : 3dBase
 // OBJ MODELS //
 ACTOR MWNightSkyBox : 3dBaseSky
 {
-	//$Category Models (Morrowind)
+	//$Category Models (Morrowind)/Skies
 	//$Title Night Starry SkyBox
 	RenderRadius 128
+}
+
+ACTOR MWBaseSkyBox1 : 3dBaseSky
+{
+	//$Category Models (Morrowind)/Skies
+	//$Title Ash Storm SkyBox
+	RenderRadius 128
+}
+
+ACTOR MWBaseSkyBox2 : MWBaseSkyBox1
+{
+	//$Title Blight Storm SkyBox
+}
+
+ACTOR MWBaseSkyBox3 : MWBaseSkyBox1
+{
+	//$Title Overcast SkyBox
+}
+
+ACTOR MWBaseSkyBox4 : MWBaseSkyBox1
+{
+	//$Title Clear SkyBox
+}
+
+ACTOR MWBaseSkyBox5 : MWBaseSkyBox1
+{
+	//$Title Cloudy SkyBox
+}
+
+ACTOR MWBaseSkyBox6 : MWBaseSkyBox1
+{
+	//$Title Foggy SkyBox
+}
+
+ACTOR MWBaseSkyBox7 : MWBaseSkyBox1
+{
+	//$Title Rainy SkyBox
+}
+
+ACTOR MWBaseSkyBox8 : MWBaseSkyBox1
+{
+	//$Title Stormy SkyBox
+}
+
+ACTOR MWBaseSkyBox9 : MWBaseSkyBox1
+{
+	//$Title Very Stormy SkyBox
 }

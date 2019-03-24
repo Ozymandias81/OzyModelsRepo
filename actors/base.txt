@@ -41,6 +41,8 @@ ACTOR 3dBaseFloat
 ACTOR 3dBaseSky
 {
 	//$Color 3
+	Radius 256
+	Height 256
 	+NOBLOCKMAP
 	+NOGRAVITY
 	States

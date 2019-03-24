@@ -5,6 +5,7 @@ DoomEdNums
 	7001=AM_NiceBed
 	7002=AM_NiceChair1
 	7003=AM_Eagle
+	7004=AM_SimpleBed
 
 	//AVP2
 	8000=APCDestroyed1
@@ -12,6 +13,15 @@ DoomEdNums
 	//MORROWIND
 	9000=BurialFurniture1
 	9001=MWNightSkyBox
+	9002=MWBaseSkyBox1
+	9003=MWBaseSkyBox2
+	9004=MWBaseSkyBox3
+	9005=MWBaseSkyBox4
+	9006=MWBaseSkyBox5
+	9007=MWBaseSkyBox6
+	9008=MWBaseSkyBox7
+	9009=MWBaseSkyBox8
+	9010=MWBaseSkyBox9
 
 	//OBLIVION
 	10000=NecroAltar

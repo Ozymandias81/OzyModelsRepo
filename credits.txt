@@ -18,7 +18,7 @@ ACTIVISION for Return To Castle Wolfenstein, Call Of Duty 1-2-UO
 	MD3 MODELS: -
 	
 BETHESDA SOFTWORKS & BETHESDA GAME STUDIOS for Elder Scrolls III: Morrowind
-	OBJ MODELS: sky_night1,
+	OBJ MODELS: sky_night1, sky_basedome,
 	MD3 MODELS: burialfurn1,
 	
 BETHESDA SOFTWORKS & BETHESDA GAME STUDIOS for Elder Scrolls IV: Oblivion
@@ -46,7 +46,7 @@ BETHESDA SOFTWORKS & OBSIDIAN ENTERTAINMENT for Fallout III: New Vegas
 
 FRICTIONAL GAMES for Amnesia: The Dark Descent
 	OBJ MODELS: -
-	MD3 MODELS: armchair, bed_nice, chair_nice01, am_eagle,
+	MD3 MODELS: armchair, bed_nice, chair_nice01, am_eagle, bed_simple,
 	
 FRICTIONAL GAMES & THE CHINESE ROOM for Amnesia: A Machine For Pigs
 	OBJ MODELS: -

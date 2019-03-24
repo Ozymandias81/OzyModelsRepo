@@ -15,12 +15,128 @@ Model BurialFurniture1
 //OBJ DEFS//
 Model MWNightSkyBox
 {
-	Path "models/morrowind"
+	Path "models/skyboxes"
 	Model 0 "sky_night1.obj"
 	Scale 0.5 0.5 0.5
 	USEACTORPITCH
 	USEACTORROLL
 	ROTATING
 	Rotation-Speed 0.02
+	FrameIndex MDLA A 0 0
+}
+
+Model MWBaseSkyBox1
+{
+	Path "models/skyboxes"
+	Model 0 "sky_basedome.obj"
+	Skin 0 "tx_sky_ash.png"
+	Scale 0.5 0.5 0.5
+	USEACTORPITCH
+	USEACTORROLL
+	ROTATING
+	Rotation-Speed 0.08
+	FrameIndex MDLA A 0 0
+}
+
+Model MWBaseSkyBox2
+{
+	Path "models/skyboxes"
+	Model 0 "sky_basedome.obj"
+	Skin 0 "tx_sky_blight.png"
+	Scale 0.5 0.5 0.5
+	USEACTORPITCH
+	USEACTORROLL
+	ROTATING
+	Rotation-Speed 0.22
+	FrameIndex MDLA A 0 0
+}
+
+Model MWBaseSkyBox3
+{
+	Path "models/skyboxes"
+	Model 0 "sky_basedome.obj"
+	Skin 0 "tx_sky_cast.png"
+	Scale 0.5 0.5 0.5
+	USEACTORPITCH
+	USEACTORROLL
+	ROTATING
+	Rotation-Speed 0.10
+	FrameIndex MDLA A 0 0
+}
+
+Model MWBaseSkyBox4
+{
+	Path "models/skyboxes"
+	Model 0 "sky_basedome.obj"
+	Scale 0.5 0.5 0.5
+	USEACTORPITCH
+	USEACTORROLL
+	ROTATING
+	Rotation-Speed 0.01
+	FrameIndex MDLA A 0 0
+}
+
+Model MWBaseSkyBox5
+{
+	Path "models/skyboxes"
+	Model 0 "sky_basedome.obj"
+	Skin 0 "tx_sky_cloudy.png"
+	Scale 0.5 0.5 0.5
+	USEACTORPITCH
+	USEACTORROLL
+	ROTATING
+	Rotation-Speed 0.04
+	FrameIndex MDLA A 0 0
+}
+
+Model MWBaseSkyBox6
+{
+	Path "models/skyboxes"
+	Model 0 "sky_basedome.obj"
+	Skin 0 "tx_sky_foggy.png"
+	Scale 0.5 0.5 0.5
+	USEACTORPITCH
+	USEACTORROLL
+	ROTATING
+	Rotation-Speed 0.03
+	FrameIndex MDLA A 0 0
+}
+
+Model MWBaseSkyBox7
+{
+	Path "models/skyboxes"
+	Model 0 "sky_basedome.obj"
+	Skin 0 "tx_sky_rainy.png"
+	Scale 0.5 0.5 0.5
+	USEACTORPITCH
+	USEACTORROLL
+	ROTATING
+	Rotation-Speed 0.05
+	FrameIndex MDLA A 0 0
+}
+
+Model MWBaseSkyBox8
+{
+	Path "models/skyboxes"
+	Model 0 "sky_basedome.obj"
+	Skin 0 "tx_sky_stormy.png"
+	Scale 0.5 0.5 0.5
+	USEACTORPITCH
+	USEACTORROLL
+	ROTATING
+	Rotation-Speed 0.08
+	FrameIndex MDLA A 0 0
+}
+
+Model MWBaseSkyBox9
+{
+	Path "models/skyboxes"
+	Model 0 "sky_basedome.obj"
+	Skin 0 "tx_sky_thunder.png"
+	Scale 0.5 0.5 0.5
+	USEACTORPITCH
+	USEACTORROLL
+	ROTATING
+	Rotation-Speed 0.12
 	FrameIndex MDLA A 0 0
 }

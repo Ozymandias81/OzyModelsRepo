@@ -23,4 +23,10 @@ ACTOR AM_Eagle : 3dBaseFloat
 	//$Title Eagle Bust, Stone
 }
 
+ACTOR AM_SimpleBed : 3dBase
+{
+	//$Category Models (Amnesia)
+	//$Title Simple Bed (structure only)
+}
+
 // OBJ MODELS //
