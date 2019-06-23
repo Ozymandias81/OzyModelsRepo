@@ -26,7 +26,7 @@ BETHESDA SOFTWORKS & BETHESDA GAME STUDIOS for Elder Scrolls IV: Oblivion
 	MD3 MODELS: necroaltar,
 	
 BETHESDA SOFTWORKS & IRON GALAXY STUDIOS for Elder Scrolls V: Skyrim
-	OBJ MODELS: brmushroom, alduin, alduinwall, azura, boethiah, nocturnal, namira, falmerstatue,
+	OBJ MODELS: brmushroom, alduin, alduinwall, azura, boethiah, dragskel, nocturnal, namira, falmerstatue,
 	meridia, vaermina, simpledome,
 
 	MD3 MODELS: malacath, shbbowl, shfacedoor, sovnbraz, swfungpod, atronachfrost, atronachstorm,

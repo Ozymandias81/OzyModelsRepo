@@ -300,6 +300,12 @@ ACTOR Boethiah : 3dBase
 	//$Title Shrine Of Boethiah
 }
 
+ACTOR DragonSkel : 3dBaseFloat
+{
+	//$Category Models (Skyrim)
+	//$Title Dragon, Skeleton
+}
+
 ACTOR Nocturnal : 3dBase
 {
 	//$Category Models (Skyrim)

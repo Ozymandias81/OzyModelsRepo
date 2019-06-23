@@ -27,9 +27,11 @@ EDITORS USED:
 - XModel Exporter : http://www.diegologic.net/CoD_tools/XmodelExporter.htm
 
 KNOWN PROBLEMS/LIMITS/BUGS:
-- .obj models doesn't support animations and they are not supported by GZDoom Builder yet
+- .obj models can be seen while mapping only with GZDBBF versions equal or higher than r3067
+- .obj models doesn't support animations and sometimes skins are not correctly previewed from GZDB
 - .obj models have AngleOffset defined because of this: https://forum.zdoom.org/viewtopic.php?f=37&t=63762#p1093917
 - .obj models works only with GZDoom 3.8+ builds
+- several big skins have been scaled to 512x512 to not haul the engine
 
 COPY INFORMATION:
 - You may use this repository for your own projects as long as you credit the creators.

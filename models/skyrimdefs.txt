@@ -541,6 +541,17 @@ Model Boethiah
 	FrameIndex MDLA A 0 0
 }
 
+Model DragonSkel
+{
+	Path "models/skyrim"
+	Model 0 "dragskel.obj"
+	Scale 1.0 1.0 1.0
+	AngleOffset 90 
+	USEACTORPITCH
+	USEACTORROLL
+	FrameIndex MDLA A 0 0
+}
+
 Model Nocturnal
 {
 	Path "models/skyrim"

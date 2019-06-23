@@ -88,6 +88,7 @@ DoomEdNums
 	20058=Goat1
 	20059=Goat2
 	20060=Cow
+	20061=DragonSkel
 	
 	//FALLOUT3
 	25000=Camper1
