@@ -19,6 +19,7 @@ EDITORS USED:
 - GZDoomBuilder : https://devbuilds.drdteam.org/gzdbbf/
 - Game Extractor : http://www.watto.org/game_extractor.html
 - HxD Hex Editor : https://mh-nexus.de/en/hxd/
+- Maverick3d : https://clover.moe/mm3d/
 - MilkShape3d : http://www.milkshape3d.com
 - Misfit3d : http://www.misfitcode.com/misfitmodel3d/
 - NifSkope : https://github.com/niftools/nifskope/releases
